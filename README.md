@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @creamystar
 - 👀 I’m interested in programming, music, movie. 
-- 🌱 I’m currently learning living on the present and loving myself.
+- 🌱 I’m currently learning vue and high-skilled node.js.
 - 💞️ I’m looking to collaborate on good company that respects me.
 - 📫 How to reach me <creamystar@naver.com>
 
